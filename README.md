@@ -170,11 +170,11 @@ O projeto encontra-se em processo de **evolução da arquitetura e implementaç�
 
 A equipe é multidisciplinar, e a divisão das responsabilidades será definida e redefinida ao longo do desenvolvimento do projeto, de acordo com as necessidades de cada etapa.
 
-- 👤 Larissa Gama Alecrim — A definir
-- 👤 Integrante 2 — A definir
-- 👤 Integrante 3 — A definir
-- 👤 Integrante 4 — A definir
-- 👤 Integrante 5 — A definir
+- 👤 Larissa Gama Alecrim — Cálculo do frete , do preço total da compra.
+- 👤 Pedro Lima — Entrada de dados e Exibição do resumo da compra
+- 👤 Theo  — Entrada de dados e Exibição do resumo da compra
+- 👤 Beatriz  — A definir
+- 👤 Carolina — Cálculo da data prevista de entrega
 
 O projeto é desenvolvido como parte da formação do curso de **Ciência da Computação**, na disciplina de **Bases de Programação**.
 
