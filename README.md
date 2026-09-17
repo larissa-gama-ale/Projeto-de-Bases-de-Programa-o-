@@ -173,7 +173,7 @@ A equipe é multidisciplinar, e a divisão das responsabilidades será definida 
 - 👤 Larissa Gama Alecrim — Cálculo do frete , do preço total da compra.
 - 👤 Pedro Lima — Entrada de dados e Exibição do resumo da compra
 - 👤 Theo  — Entrada de dados e Exibição do resumo da compra
-- 👤 Beatriz  — A definir
+- 👤 Beatriz  — Cálculo do frete e Interface do terminal
 - 👤 Carolina — Cálculo da data prevista de entrega
 
 O projeto é desenvolvido como parte da formação do curso de **Ciência da Computação**, na disciplina de **Bases de Programação**.
